@@ -1,2 +1,0 @@
-# bertrace
-Bertrace School Complex
